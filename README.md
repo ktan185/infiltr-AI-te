@@ -1,4 +1,8 @@
 # Infiltr-AI-te
+- Infiltr-AI-te: An Escape Room Game Utilising OpenAI's ChatGPT as a Game Master.
+
+## Backstory
+- As a top secret agent, you have been tasked to infiltrate hostile territory in order to collect intelligence on the enemy. How much can you gather before the enemies find you? Will you escape in time? put your problem solving skills to the test!
 
 ## To setup OpenAI's API
 
